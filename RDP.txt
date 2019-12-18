@@ -1,0 +1,3 @@
+RDP
+
+https://cognizantlearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&lang=en-us&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D500%26UserMode%3D0
